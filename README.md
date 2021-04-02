@@ -16,3 +16,5 @@ The best feature is that it plays Frère Jaques if you press the right-most knob
 Coded in Arduino IDE using C and C++.
 
 Embedded systems design.
+
+![The board](https://github.com/LudwigAJ/Embedded_PianoInstrument/blob/main/Board.jpeg)
