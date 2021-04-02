@@ -20,6 +20,6 @@ Embedded systems design.
 ![The board](https://github.com/LudwigAJ/Embedded_PianoInstrument/blob/main/Board.jpeg)
 
 ***
-#### Link to video on youtube.
-[text link](https://youtu.be/RKrCgc2Ukok)
+#### Link to video on youtube demonstrating.
+[link](https://youtu.be/RKrCgc2Ukok)
 
