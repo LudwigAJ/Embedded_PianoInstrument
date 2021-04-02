@@ -18,3 +18,8 @@ Coded in Arduino IDE using C and C++.
 Embedded systems design.
 
 ![The board](https://github.com/LudwigAJ/Embedded_PianoInstrument/blob/main/Board.jpeg)
+
+***
+#### Link to video on youtube.
+[text link](https://youtu.be/RKrCgc2Ukok)
+
